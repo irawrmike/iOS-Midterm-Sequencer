@@ -5,6 +5,6 @@ A simple step sequencer written in Swift using AudioKit
 
 #### Screenshots:
 
-![alt text](https://github.com/irawrmike/iOS-Midterm-Sequencer/blob/master/Screenshots/Screenshot-01.jpg "Screenshot 1")
-![alt text](https://github.com/irawrmike/iOS-Midterm-Sequencer/blob/master/Screenshots/Screenshot-02.jpg "Screenshot 2")
-![alt text](https://github.com/irawrmike/iOS-Midterm-Sequencer/blob/master/Screenshots/Screenshot-03.jpg "Screenshot 3")
+<a href="url"><img src="https://github.com/irawrmike/iOS-Midterm-Sequencer/blob/master/Screenshots/Screenshot-01.jpg" align="left" height="441.6" width="248.4" ></a>
+<a href="url"><img src="https://github.com/irawrmike/iOS-Midterm-Sequencer/blob/master/Screenshots/Screenshot-02.jpg" align="left" height="441.6" width="248.4" ></a>
+<a href="url"><img src="https://github.com/irawrmike/iOS-Midterm-Sequencer/blob/master/Screenshots/Screenshot-03.jpg" align="left" height="441.6" width="248.4" ></a>
